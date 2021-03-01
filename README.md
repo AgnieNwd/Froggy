@@ -1,2 +1,2 @@
 # Froggy
-🕹 School Project - My Little Big Game Frogger like 
+🕹 School Project - My Little Big Game Frogger like developed in C++
